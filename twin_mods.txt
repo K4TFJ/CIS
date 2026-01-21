@@ -1,0 +1,17 @@
+Conar 500 Receiver Mods ======================================
+
+Replace the half-wave, single diode rectifier with a full wave bridge rectifier. (Reduced AC ripple)
+
+Add two (2) electrolytic capacitors (100uF,200v) in parallel with C14a from the D1/R3 junction to ground. (Reduced AC ripple)
+
+Replace speaker with one with less depth and add rubber grommets to mounting screws.
+
+Add 18pf capacitor from S1b/C1 to S1c/C4 junctions. (increases 80m sensitivity)
+
+
+
+Conar 400 Transmitter Mods ===================================
+
+Add a 70pf capacitor across C2 (100pf)(Reduces crystal current)
+
+Add a 150uF 400 volt electrolytic across ________ (reduces chirp)
